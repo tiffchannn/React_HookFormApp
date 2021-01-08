@@ -1,0 +1,9 @@
+body{
+  font-family: Montserrat, serif;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+}
